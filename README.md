@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying on **VietNam - Korean of ICT**
 
-- 🌱 I’m currently learning **Javascript, C++, Java**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **willgotofactory@gmail.com**
 
